@@ -7,13 +7,13 @@
 ## 🛠️ Technical Focus
 
 - Backend architecture with emphasis on security and performance
-- Cloud-native development using AWS services
+- Cloud-native development using AWS, Azure and Google Cloud services
 - API development with best practices for authentication and optimization
 - Scalable system design with infrastructure-as-code principles
 
 ## 🌱 Current Learning Path
 
-- Advanced cloud architecture with AWS Lambda, S3, and Kubernetes
+- Advanced cloud architecture with AWS, Azure, Google Cloud and Kubernetes
 - CI/CD pipeline optimization using GitHub Actions
 - Database performance tuning and architecture design
 - System design patterns for scalable applications
