@@ -105,9 +105,9 @@ Interested in working on:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SimanyeSTS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SimanyeSTS&theme=dark&hide_border=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimanyeSTS&theme=monokai)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SimanyeSTS&theme=dark)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SimanyeSTS&icon=2&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SimanyeSTS&color=blueviolet)
