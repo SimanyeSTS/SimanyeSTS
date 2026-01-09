@@ -105,9 +105,12 @@ Interested in working on:
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimanyeSTS&theme=monokai)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SimanyeSTS&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimanyeSTS&show_icons=true&theme=radical&count_private=true)
 
----
+## 🔥 Streak Stats
 
-![](https://komarev.com/ghpvc/?username=SimanyeSTS&color=blueviolet)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SimanyeSTS&theme=radical)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=SimanyeSTS&color=blueviolet)
