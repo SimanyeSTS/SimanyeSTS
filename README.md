@@ -49,11 +49,11 @@ I adapt to the tool that fits the job. Here is what I use to build solutions:
 ## 💼 Professional Experience
 
 ### **InUversal Group** | Software Developer Intern
-*Jan 2026 - Present*
-Applying engineering principles to secure health data and optimize mobile performance.
-- **System Architecture:** Architecting scalable backend microservices using **.NET 10** and **Azure**.
-- **Mobile Engineering:** Driving the strategy for cross-platform apps using **React Native** and **Redux**.
-- **DevOps:** Optimizing CI/CD pipelines and containerization via **Docker** and **Kubernetes**.
+*Jan 2026 - Sep 2026*
+Applied engineering principles to secure health data and optimize mobile performance.
+- **System Architecture:** Architected scalable backend microservices using **.NET 10** and **Azure**.
+- **Mobile Engineering:** Drove the strategy for cross-platform apps using **React Native** and **Redux**.
+- **DevOps:** Optimized CI/CD pipelines and containerization via **Docker** and **Kubernetes**.
 
 ### **Beeline** | Product & QA Intern
 *Jun 2025 - Sep 2025*
